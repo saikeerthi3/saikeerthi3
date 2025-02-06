@@ -17,38 +17,43 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), R, SQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Database:** MySQL, PostgreSQL  
 - **Machine Learning:** Predictive Modeling, Clustering, Neural Networks  
-- **Big Data & Cloud:** Azure, Power Query  
+- **Big Data & Cloud:** AWS, Power Query  
 - **Tools & Technologies:** Excel, PowerPoint, QuestionPro  
 
 ---
 
 ## 📂 Featured Projects  
-### 📊 [Supermarket Sales Analysis](#)  
-- **Tech Used:** SQL, Power BI  
-- Conducted in-depth **sales trend analysis** across multiple branches.  
-- Identified the most profitable product categories and peak sales periods.  
-- Provided insights into customer demographics and payment method preferences.  
+<h3>📊 <a href="https://github.com/saikeerthi3/Supermarket-Sales-Analysis-using-sql">Supermarket Sales Analysis</a></h3>
+<ul>
+  <li><strong>Tech Used:</strong> SQL, Power BI</li>
+  <li>Conducted in-depth <strong>sales trend analysis</strong> across multiple branches.</li>
+  <li>Identified the most profitable product categories and peak sales periods.</li>
+  <li>Provided insights into customer demographics and payment method preferences.</li>
+</ul>
 
-### 🏦 [Customer Default Prediction](#)  
-- **Tech Used:** Python, Machine Learning  
-- Developed a **predictive model** to assess credit risk and identify high-risk customers.  
-- Conducted **Exploratory Data Analysis (EDA)** to uncover key factors influencing defaults.  
-- Improved model accuracy through feature selection and hyperparameter tuning.  
-
-### 👥 [Customer Churn Analysis](#)  
-- **Tech Used:** Power BI, SQL  
-- Designed a **comprehensive dashboard** revealing key customer churn trends.  
-- Analyzed the impact of **demographic factors** on churn rates.  
-- Provided actionable recommendations to improve customer retention.  
+<h3>👥 <a href="https://github.com/saikeerthi3/customer-churn-analysis">Customer Churn Analysis</a></h3>
+<ul>
+  <li><strong>Tech Used:</strong> Power BI, SQL</li>
+  <li>Designed a <strong>comprehensive dashboard</strong> revealing key customer churn trends.</li>
+  <li>Analyzed the impact of <strong>demographic factors</strong> on churn rates.</li>
+  <li>Provided actionable recommendations to improve customer retention.</li>
+</ul>
  
+<h3>🏦 <a href = "https://github.com/saikeerthi3/Bank-Customer-Churn-Analysis">Customer Default Prediction</a></h3>
+<ul>
+  <li><strong>Tech Used:</strong> Python, Machine Learning</li>
+  <li>Developed a <strong>predictive model</strong> to assess credit risk and identify high-risk customers.</li>
+  <li>Conducted <strong>Exploratory Data Analysis (EDA)</strong> to uncover key factors influencing defaults.</li>
+  <li>Improved model accuracy through <strong>feature selection</strong> and <strong>hyperparameter tuning</strong>.</li>
+</ul>
 
----
+ 
+ ---
 
 ## 📫 Let's Connect!  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/keerthim2091/](https://www.linkedin.com/in/keerthim2091/)  
