@@ -20,7 +20,7 @@
 
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), R, SQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Database:** MySQL, PostgreSQL  
+- **Database:** MySQL 
 - **Machine Learning:** Predictive Modeling, Clustering, Neural Networks  
 - **Big Data & Cloud:** AWS, Power Query  
 - **Tools & Technologies:** Excel, PowerPoint, QuestionPro  
@@ -36,15 +36,23 @@
   <li>Provided insights into customer demographics and payment method preferences.</li>
 </ul>
 
-<h3>👥 <a href="https://github.com/saikeerthi3/customer-churn-analysis">Customer Churn Analysis</a></h3>
+<h3>👥 <a href="https://github.com/saikeerthi3/Bank-Customer-Churn-Analysis">Customer Churn Analysis</a></h3>
 <ul>
   <li><strong>Tech Used:</strong> Power BI, SQL</li>
   <li>Designed a <strong>comprehensive dashboard</strong> revealing key customer churn trends.</li>
   <li>Analyzed the impact of <strong>demographic factors</strong> on churn rates.</li>
   <li>Provided actionable recommendations to improve customer retention.</li>
 </ul>
- 
-<h3>🏦 <a href = "https://github.com/saikeerthi3/Bank-Customer-Churn-Analysis">Customer Default Prediction</a></h3>
+
+<h3>👥 <a href="https://github.com/saikeerthi3/Market-Trends-Analyzing-Consumer-Shopping-Patterns"> Market Trends: Analyzing Consumer Shopping Patterns</a></h3>
+<ul>
+  <li><strong>Tech Used:</strong> Power BI, SQL</li>
+  <li>Designed a <strong>comprehensive dashboard</strong> revealing key customer churn trends.</li>
+  <li>Analyzed the impact of <strong>demographic factors</strong> on churn rates.</li>
+  <li>Provided actionable recommendations to improve customer retention.</li>
+</ul>
+
+<h3>🏦 Customer Default Prediction </h3>
 <ul>
   <li><strong>Tech Used:</strong> Python, Machine Learning</li>
   <li>Developed a <strong>predictive model</strong> to assess credit risk and identify high-risk customers.</li>
